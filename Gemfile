@@ -6,6 +6,7 @@ group :test do
   gem 'rspec'
   gem 'cucumber'
   gem 'rubocop-rspec'
+  gem 'capybara'
 end
 
 gem 'rubocop'
