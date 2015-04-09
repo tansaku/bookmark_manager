@@ -11,6 +11,14 @@ Style/EmptyLinesAroundClassBody:
   - empty_lines
   - no_empty_lines
 
+Style/EmptyLinesAroundModuleBody:
+  Description: Keeps track of empty lines around module bodies.
+  Enabled: true
+  EnforcedStyle: empty_lines
+  SupportedStyles:
+  - empty_lines
+  - no_empty_lines
+
 Style/StringLiterals:
   Enabled: false
 
