@@ -1,6 +1,6 @@
 require 'data_mapper'
 
-require 'data_mapper_setup'
+require_relative 'data_mapper_setup'
 
 require 'sinatra'
 require 'rack-flash'
